@@ -3,6 +3,8 @@
 _schema = new SimpleSchema
   content:
     type: String
+  userId:
+    type: String
   createdAt:
     type: Date
     defaultValue: new Date()

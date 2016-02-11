@@ -19,3 +19,4 @@ insecure                # Allow all DB writes from clients (for prototyping)
 react
 coffeescript
 aldeed:collection2
+jhartma:cjsx

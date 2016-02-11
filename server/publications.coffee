@@ -1,2 +1,2 @@
 
-Meteor.publish 'statements', () ->
+# Meteor.publish 'statements', () ->
